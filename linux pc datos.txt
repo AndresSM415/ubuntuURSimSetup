@@ -1,0 +1,4 @@
+name: Andres San Martin
+computers name: otomatiqaLinuxPC
+username: andres_sm
+user password: wiskis27
